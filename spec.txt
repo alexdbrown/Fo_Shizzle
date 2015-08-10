@@ -1,0 +1,13 @@
+Fo Shizzle
+
+Behavior = print z instead of s
+Input = s
+Output = z
+
+Behavior = keep capital S's
+Input = S
+Output = S
+
+Behavior = keep s when first letter of word
+Input = sunshine
+Output = sunzhine
